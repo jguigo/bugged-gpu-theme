@@ -1,0 +1,32 @@
+{
+  "name": "darker-high-contrast-bugged-gpu",
+  "displayName": "darker-high-contrast-bugged-gpu",
+  "description": "bugged gpu theme",
+  "publisher": "BuggedGpuTheme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jguigo/bugged-gpu-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "high contrast",
+    "bugged gpu"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bugged-gpu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bugged-gpu-color-theme.json"
+      }
+    ]
+  }
+}
