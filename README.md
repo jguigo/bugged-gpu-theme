@@ -1,4 +1,4 @@
-# darker-high-contrast-bugged-gpu README
+# darker-high-contrast-bugged-gpu
 
 ## Description
 
